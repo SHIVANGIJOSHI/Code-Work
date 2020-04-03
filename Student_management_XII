@@ -1,0 +1,37 @@
+THE PROGRAM FOR STUDENT MANAGEMENT SYSTEM
+This was my investigatory programming assignment which i made in my class XII.
+The concept used was very basic file handling I/O, i got a great help from my Teacher that time...
+I altered this program for it to run in my operating system UBUNTU 18.04.
+PROGRAM OVERVIEW:
+This program deals with the student details which is being stored/entered by the user.
+Student Details are stored in the form of text file.
+It is protected by a system_password:1603
+It will display the main menu from which user have to select the required option.
+And, It will display the required output as per user's choice.
+INCLUDES:-
+1. ENTER STUDENT DETAILS
+2. READ STUDENT DETAILS
+3. SEARCH STUDENT DETAILS
+4. DELETE STUDENT DETAILS
+5. MODIFY STUDENT DETAILS
+STUDENT DETAILS TO BE ENTERED:-
+1.ADMISSION NO.    
+2.FULL NAME        
+3.DATE OF BIRTH     
+4.GENDER            
+5.STANDARD
+       
+THANK YOU -SJ
+
+
+
+
+
+
+
+
+
+
+
+												-SJ
+

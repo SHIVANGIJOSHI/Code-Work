@@ -1,0 +1,45 @@
+THE PROGRAM FOR MY OWN CRYPTOGRAPHY SYSTEM
+This was made in my first semester winter vacation.
+This program involves CAESAR CIPHER concept with my own twist:).
+The concept used was very basic, i made this program for fun while learning cryptography from KHAN ACDEMY...
+SUPER PASSWORD : 2511
+SYSTEM PASSWORD: 1603
+I altered this program for it to run in my operating system UBUNTU 18.04.
+PROGRAMMING CONCEPT:
+1)ENCRYPTION
+I/P:KILL
+O/P:VHAA
+CONCEPT:	K	I	L	L
+ASCII           76      74      77      77
+DECIMAL         11	9	12	12
+SHIFT
+(KEY=19)	30	28	31	31
+MOD26    	4	2	5	5
+TO ASCII	69	67	70	70
+CHARACTERS	D	B	E	E
+ENCODE		V	H	A	A
+1)DECRYPTION
+I/P:VHAA
+O/P:KILL
+CONCEPT:	V	H	A	A
+DECODE		D	B	E	E
+ASCII           69	67	70	70
+DECIMAL         4	2	5	5
+SHIFT
+(26-KEY=19)	11	9	12	12
+MOD26    	11	9	12	12
+TO ASCII	76      74      77      77
+CHARACTERS	K	I	L	L
+THANK YOU -SJ
+
+
+
+
+
+
+
+
+
+
+
+										        										-SJ		

@@ -1,0 +1,57 @@
+THE PROGRAM FOR CONVERSION INTO VARIOUS NUMBER SYSTEM
+This was my first programming assignment which i made in my class XI.
+This program involves Binary conversions, Hexadecimal conversions and Octal conversions.
+The concept used was very basic, i got a great help from my Teacher that time...
+I altered this program for it to run in my operating system UBUNTU 18.04.
+PROGRAMMING CONCEPT:
+1.BINARY CONVERSIONS
+i)BINARY TO DECIMAL CONVERSION
+input: 1010
+output: 10
+concept:: 1*2^3+0*2^2+1*2^1+0*2^0
+ii)DECIMAL TO BINARY CONVERSION
+input:8
+output:1000
+concept::      |8%2|0
+(8/2=>4)       |4%2|0
+(4/2=>2)       |2%2|0
+(2/2=>1)       |1%2|1
+(1/2=>0)
+taking in reverse gives->1000
+2.OCTAL CONVERSIONS
+i)OCTAL TO DECIMAL CONVERSION
+input: 70
+output: 56
+concept:: 7*8^1+0*8^0
+ii)DECIMAL TO OCTAL CONVERSION
+input:16
+output:20
+concept::       |16%8|0
+(16/8=>2)       | 2%8|2
+(2/8=>0)       
+taking in reverse gives->20
+3.HEXADECIMAL CONVERSIONS
+i)HEXADECIMAL TO DECIMAL CONVERSION
+input: 1A
+output: 26
+concept:: 1*16^1+10(A)*2^0
+ii)DECIMAL TO HEXADECIMAL CONVERSION
+input:25
+output:19
+concept::        |25%16|9
+(25/16=>1)       |1%16|1
+(1/16=>0)       
+taking in reverse gives->19
+THANK YOU -SJ
+
+
+
+
+
+
+
+
+
+
+
+												-SJ
