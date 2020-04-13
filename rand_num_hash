@@ -1,1 +1,20 @@
 RANDOM NUMBER GENERATOR USING HASHING
+I am very much pleased by the concept of Array of Pointers and how hashing is implemented with them.
+That's i am implementing a very interseting concept of generating unique random numbers every time using hashing.
+CONCEPT:
+I have generated random numbers using rand() function. The statement >>struct node * bucks[33]<< defines an array of pointers.
+Each pointer in this array points to the linked list associated with that bucket.
+For Eg:-
+bucks[0]->linked list holding numbers from 0 to 1000 and so on...
+While generating random no. first, checking in hash table if it exist we again produce a new no. else we will display the no. and store it in appropriate bucket. 
+Thank you
+
+
+
+
+
+
+
+
+
+												-SJ 																						 
