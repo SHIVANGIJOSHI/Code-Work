@@ -1,3 +1,4 @@
+10
 S=ABCDE
 A=a
 A=#
@@ -9,41 +10,6 @@ D=#
 E=e
 E=#
 
-Accepted String = abcde$
-Accepted String = bce$
--------------------------------
-S=Bb
-S=Cd
-B=aB
-B=#
-C=cC
-C=#
+abcde$
 
-Accepted String = aaaaab$
-Accepted String = cccccd$
--------------------------------
-E=TR
-R=+TR
-R=#
-T=FY
-Y=*FY
-Y=#
-F=(E)
-F=i
 
-Accepted String = i+i*i$
-Accepted String = (i+i)*i$
-Accepted String = i*(i+i)$
--------------------------------
-S=aBDh
-B=cC
-C=bC
-C=#
-D=EF
-E=g
-E=#
-F=f
-F=#
-
-Accepted String = acbbh$
-Accepted String = acgfh$
