@@ -13,5 +13,15 @@ Do find it useful and if like to contribute you can just create a pull request..
 This directory includes the lab assignments   
 1.LL(1)_parser implemented using **C** (with sample input file and sample output file)  
 2.string recognition using RE's : 'a','a*b+','abb' implemented using **C**  
-
+## Computer Networks Lab Assignments  
+This directory includes the lab assignments   
+1.Parity Check error detection implemented using **C**  
+2.Go Back-N no. of packets return count implemented using **C**  
+3.Stop and Wait no. of packets return count implemented using **C**  
+4.Distance Vector Rounting implemented using **C**  
+5.Dijkastra Routing implemented using **C**  
+6.CRC error detection implemented using **C**  
+7.Bit stuffing implemented using **C**   
+8.character stuffing implemented using **C**  
+9.checksum error detection implemented using **C**  
 More to be added...  
